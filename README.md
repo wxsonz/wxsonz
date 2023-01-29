@@ -46,7 +46,7 @@ using nvim in vscode ![ei](https://cdn.discordapp.com/attachments/10632134399898
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat-square&logo=Arduino&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=flat-square&logo=notion&logoColor=white)
 
-# 📊 GitHub Stats:
+# GitHub ~~worthless~~ Stats:
 ![](https://github-readme-stats.vercel.app/api?username=wxsonz&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=wxsonz&theme=gruvbox&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=wxsonz&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
