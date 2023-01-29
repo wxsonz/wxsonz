@@ -1,6 +1,8 @@
 # (●'◡'●) About Me:
 I'm studying [CS50x](https://cs50.harvard.edu/x/2023/) and [The Odin Project](https://www.theodinproject.com/) atm
 
+using nvim in vscode ![ei](https://cdn.discordapp.com/attachments/1063213439989854228/1069093713843863552/image.png)
+
 ## Socials:
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/wxsonz) 
 
