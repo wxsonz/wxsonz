@@ -1,5 +1,5 @@
 # (●'◡'●) About Me:
-I'm studying on my own
+I'm studying a lot on my own currently
 
 ## Socials:
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/wxsonz) 
