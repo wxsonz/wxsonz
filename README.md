@@ -1,6 +1,6 @@
 # (●'◡'●) About Me:
-update 13-03-2023
-I'm styuding on a lot of material atm
+update 02-05-2023
+sleep
 
 using nvim in vscode ![ei](https://cdn.discordapp.com/attachments/1063213439989854228/1069095911294251059/image.png)
 
