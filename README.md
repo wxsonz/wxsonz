@@ -1,4 +1,5 @@
 # (●'◡'●) About Me:
-###### update 20-10-2023
+<sub><sub> update 20-10-2023 </sub></sub>
 
-Grinding 24/7
+when problem hit hard we get philosophical
+but me go ratata
