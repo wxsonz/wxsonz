@@ -1,6 +1,6 @@
 # (●'◡'●) About Me:
-<sub><sub> update 2024-01-07 </sub></sub>
+<sub><sub> update 2024-10-18 </sub></sub>
 
-grinding kid
+tmux + neovim
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=wxsonz&theme=dark&date_format=j%2Fn%5B%2FY%5D)](https://git.io/streak-stats)
+42bangkok student
