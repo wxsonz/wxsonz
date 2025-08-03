@@ -1,6 +1,4 @@
 # (●'◡'●) About Me:
-<sub><sub> update 2024-10-18 </sub></sub>
+<sub> update 2025-08-03 </sub>
 
-most of the time: tmux + yazi + neovim
-sometimes: vim
-but rarely: vscode
+42Bangkok Student (2024-08-xx ~ 2024-12-31, 2025-04-18 ~ now)
